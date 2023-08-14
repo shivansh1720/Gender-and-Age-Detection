@@ -1,7 +1,7 @@
 # My Approach
 My thought was that a model whose task is to detect a person who is wearing face-mask, it will only be able to do so by recognising a person by eyes. So if an existing gender-detection model is able to recognise person's gender only through is eyes, it should work in my case too. The model given in this repo is able to do so I am uploading some test cases also.
 
-#### For testing you need to download the test image and ask the model to validate it using commands given at end from terminal. it also works through webcam.
+#### For testing you need to download the test image and ask the model to validate it using commands given belowfrom terminal. it also works through webcam.
 
 ## Below is the functioning of this model actuall works
 # Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
