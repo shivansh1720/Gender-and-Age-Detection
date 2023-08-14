@@ -107,6 +107,6 @@ My thought was that a model whose task is to detect a person who is wearing face
     
 <img src="Example/Detecting age and gender woman1.png">
 
-![Alt text](https://ibb.co/8cxPjdX)
-![Alt text](https://ibb.co/BZnVq4B)
+![alt text](https://ibb.co/8cxPjdX)
+![alt text](https://ibb.co/BZnVq4B)
               
